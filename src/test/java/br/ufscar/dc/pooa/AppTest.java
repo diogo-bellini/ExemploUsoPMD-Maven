@@ -1,4 +1,4 @@
-package br.ufscar.dc.dsw;
+package br.ufscar.dc.pooa;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
